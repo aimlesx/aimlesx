@@ -4,5 +4,5 @@
     💻 System programming × WebDev
     📖 Electronics × IoT
     🎮 Code × Games × Music
-    🔧 C++ × Java × JavaScript
+    🔧 C++ × JavaScript × Java
 </pre>
