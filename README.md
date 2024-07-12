@@ -1,7 +1,7 @@
 ### Hi there 😼
 <pre>
-    🎓 BSC @ PJAIT × Back-end dev
-    💻 System programming languages
+    🎓 BSC @ PJAIT
+    💻 System programming × WebDev
     📖 Electronics × IoT
     🎮 Code × Games × Music
     🔧 C++ × Java × JavaScript
